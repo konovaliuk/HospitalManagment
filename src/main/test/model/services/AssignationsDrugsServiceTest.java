@@ -1,12 +1,11 @@
-package model.services;
+package jdbc.model.services;
 
-import model.entities.AssignationsDrugs;
-import model.entities.Drug;
+import jdbc.model.entities.AssignationsDrugs;
+import jdbc.model.entities.Drug;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import javax.naming.Context;
 import java.util.ArrayList;
 import java.util.List;
 

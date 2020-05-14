@@ -1,14 +1,13 @@
-package model.services;
+package jdbc.model.services;
 
-import model.entities.Diagnosis;
-import model.entities.DiagnosisHistory;
-import model.entities.DiagnosisType;
+import jdbc.model.entities.Diagnosis;
+import jdbc.model.entities.DiagnosisHistory;
+import jdbc.model.entities.DiagnosisType;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.sql.Timestamp;
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.*;

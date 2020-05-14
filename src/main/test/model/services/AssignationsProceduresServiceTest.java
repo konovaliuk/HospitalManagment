@@ -1,7 +1,7 @@
-package model.services;
+package jdbc.model.services;
 
-import model.entities.AssignationsProcedures;
-import model.entities.Procedure;
+import jdbc.model.entities.AssignationsProcedures;
+import jdbc.model.entities.Procedure;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
